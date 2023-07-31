@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there i'm Captain This is my Githup Profile 👋
 
+- 🔭 I’m currently java developer
+- 🌱 I’m currently learning Font-End,Back-End more
+
+ #### 📫 How to reach me:
+ - 👉[Facebook](https://www.facebook.com/captainz.thanyatab)
+
+### ⭐ hobby
 <!--
 **captainthx/captainthx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
