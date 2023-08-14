@@ -6,7 +6,7 @@
  #### 📫 How to reach me:
  - 👉[Facebook](https://www.facebook.com/captainz.thanyatab)
 
-###skill
+### skill
     - java script
     - type script
     - css
@@ -17,7 +17,8 @@
     - node js
     - orther
         -aws nginx docker git tomcat
-###tool
+
+### tool
     - vs code
     - intelji idea
     - postman
@@ -26,7 +27,8 @@
     - mysql workbench 
 
 ###  my project for learning 
-    - ???
+    - novelshop(e-book store)
+    - spring-boot api e-book store
 ### ⭐ hobby
     - reading 
     - playgame
