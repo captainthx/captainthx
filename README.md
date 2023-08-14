@@ -6,7 +6,32 @@
  #### 📫 How to reach me:
  - 👉[Facebook](https://www.facebook.com/captainz.thanyatab)
 
+##skill
+    - java script
+    - type script
+    - css
+    - html
+    - java
+    - sql
+    - php
+    - node js
+    - orther
+        -aws nginx docker git tomcat
+##tool
+    - vs code
+    - intelji idea
+    - postman
+    - githup desktop
+    - docker desktop
+    - mysql workbench 
+
+###  my project for learning 
+    - ???
 ### ⭐ hobby
+    - reading 
+    - playgame
+    - learning 
+
 <!--
 **captainthx/captainthx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
