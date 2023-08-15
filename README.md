@@ -19,20 +19,20 @@
      -aws nginx docker git tomcat
 
 ### tool
-    - vs code
-    - intelji idea
-    - postman
-    - githup desktop
-    - docker desktop
-    - mysql workbench 
+   - vs code
+   - intelji idea
+   - postman
+   - githup desktop
+   - docker desktop
+   - mysql workbench 
 
 ###  my project for learning 
-    - novelshop(e-book store)
-    - spring-boot api e-book store
+   - novelshop(e-book store) -> developing
+   - spring-boot api (e-book store) ->developing
 ### ⭐ hobby
-    - reading 
-    - playgame
-    - learning 
+   - reading 
+   - playgame
+   - learning 
 
 <!--
 **captainthx/captainthx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
