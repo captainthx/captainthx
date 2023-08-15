@@ -15,8 +15,8 @@
    - sql
    - php
    - node js
-   - orther
-       -aws nginx docker git tomcat
+   - orther( aws nginx docker git tomcat)
+      
 
 ### tool
    - vs code
