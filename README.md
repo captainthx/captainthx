@@ -7,16 +7,16 @@
  - 👉[Facebook](https://www.facebook.com/captainz.thanyatab)
 
 ### skill
-    - java script
-    - type script
-    - css
-    - html
-    - java
-    - sql
-    - php
-    - node js
-    - orther
-        -aws nginx docker git tomcat
+   - java script
+   - type script
+   - css
+   - html
+   - java
+   - sql
+   - php
+   - node js
+   - orther
+     -aws nginx docker git tomcat
 
 ### tool
     - vs code
