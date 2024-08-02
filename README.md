@@ -13,7 +13,6 @@
    - html
    - java
    - sql
-   - php
    - node js
    - orther( aws nginx docker git tomcat)
       
@@ -27,8 +26,8 @@
    - mysql workbench 
 
 ###  my project for learning 
-   - novelshop(e-book store) -> developing
-   - spring-boot api (e-book store) ->developing
+   - blog -> in development
+   - spring-boot blog api -> in development
 ### ⭐ hobby
    - reading 
    - playgame
