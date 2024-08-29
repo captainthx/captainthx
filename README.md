@@ -12,9 +12,10 @@
    - css
    - html
    - java
+   - go lang
    - sql
    - node js
-   - orther( aws nginx docker git tomcat)
+   - orther( aws nginx docker git )
       
 
 ### tool
@@ -26,8 +27,9 @@
    - mysql workbench 
 
 ###  my project for learning 
-   - blog -> in development
-   - spring-boot blog api -> in development
+   - blog 
+   - spring-boot blog api
+   - go lang shop api 
 ### ⭐ hobby
    - reading 
    - playgame
