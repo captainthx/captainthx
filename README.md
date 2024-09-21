@@ -1,10 +1,8 @@
 ### Hi there i'm Captain This is my Githup Profile 👋
 
-- 🔭 I’m currently java developer
+- 🔭 I’m currently java backend developer
 - 🌱 I’m currently learning Font-End,Back-End more
 
- #### 📫 How to reach me:
- - 👉[Facebook](https://www.facebook.com/captainz.thanyatab)
 
 ### skill
    - java script
@@ -27,7 +25,7 @@
    - mysql workbench 
 
 ###  my project for learning 
-   - blog 
+   - blog   https://blog.yotsuki.online
    - spring-boot blog api
    - go lang shop api 
 ### ⭐ hobby
