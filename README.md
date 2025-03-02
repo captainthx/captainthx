@@ -1,7 +1,7 @@
 ### Hi there i'm Captain This is my Githup Profile 👋
 
 - 🔭 I’m currently java backend developer
-- 🌱 I’m currently learning Font-End,Back-End more
+- 🌱 I’m currently learning Font-End,Back-End,about devOps more
 
 
 ### skill
@@ -15,6 +15,12 @@
    - node js
    - orther( aws nginx docker git )
       
+### frameworks
+   - spring boot
+   - react
+   - next
+   - vue
+   - gin
 
 ### tool
    - vs code
@@ -25,9 +31,11 @@
    - mysql workbench 
 
 ###  my project for learning 
-   - blog   https://blog.yotsuki.online
-   - spring-boot blog api
-   - go lang shop api 
+   - blog (full stack)  
+   - golang (backend)
+   - python telegram bot
+   - profile web (frontend)
+     
 ### ⭐ hobby
    - reading 
    - playgame
