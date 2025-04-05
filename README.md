@@ -31,10 +31,11 @@
    - mysql workbench 
 
 ###  my project for learning 
-   - blog (full stack)  
-   - golang (backend)
+   - blog api
+   - blog web  
+   - golang api
    - python telegram bot
-   - profile web (frontend)
+  
      
 ### ⭐ hobby
    - reading 
