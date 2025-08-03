@@ -17,9 +17,8 @@
       
 ### frameworks
    - spring boot
-   - react
    - next
-   - vue
+   - nuxt
    - gin
 
 ### tool
@@ -30,12 +29,6 @@
    - docker desktop
    - mysql workbench 
 
-###  my project for learning 
-   - blog api
-   - blog web  
-   - golang api
-   - python telegram bot
-  
      
 ### ⭐ hobby
    - reading 
