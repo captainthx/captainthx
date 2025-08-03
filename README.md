@@ -1,16 +1,16 @@
 ### Hi there i'm Captain This is my Githup Profile 👋
 
-- 🔭 I’m currently java backend developer
+- 🔭 I’m currently fullstack developer
 - 🌱 I’m currently learning Font-End,Back-End,about devOps more
 
 
 ### skill
-   - java script
-   - type script
+   - js
+   - ts
    - css
    - html
    - java
-   - go lang
+   - go
    - sql
    - node js
    - orther( aws nginx docker git )
