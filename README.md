@@ -3,8 +3,10 @@
 - 🔭 I’m currently fullstack developer
 - 🌱 I’m currently learning Font-End,Back-End,about devOps more
 
+<hr/>
 
-## Languages and Tools  
+### Languages and Tools 
+
 <div align="center">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 12px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="60" /></a>  
 <a href="https://go.dev/" target="_blank"><img style="margin: 12px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="60" /></a>  
@@ -30,10 +32,9 @@
 
 
 &nbsp;
-
-<img src="https://github-readme-stats.vercel.app/api?username=captainthx&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 47%" />
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainthx&hide_border=true&layout=compact" align="left" style="width: 47%" height=200 />
+<hr/>
+<div  align="center" >
+<img    src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainthx&hide_border=true&layout=compact"   height=200 />
+</div>
 
 
