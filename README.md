@@ -1,7 +1,7 @@
 ### Hi there i'm Captain This is my Githup Profile 👋
 
-- 🔭 I’m currently fullstack developer
-- 🌱 I’m currently learning Font-End,Back-End,about devOps more
+- 🔭 I’m currently java developer
+- 🌱 I’m currently learning Fontend,Backend,about devOps more
 
 <hr/>
 
