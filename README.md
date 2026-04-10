@@ -21,7 +21,7 @@
 <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 12px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="60" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 12px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="60" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 12px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="60" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 12px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="60" /></a>  
+<!-- <a href="https://vuejs.org/" target="_blank"><img style="margin: 12px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="60" /></a>   -->
 <a href="https://nuxtjs.org/" target="_blank"><img style="margin: 12px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="60" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 12px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="60" /></a>  
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 12px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="60" /></a>  
@@ -30,7 +30,7 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 12px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60" /></a>  
 </div>  
 
-
+<!--
 &nbsp;
 <hr/>
 <div  align="center" >
